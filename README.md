@@ -1,4 +1,4 @@
 # discord-coin-bot
 
-go build 
+go build <br>
 ./discord-coin-bot -t TOKEN
